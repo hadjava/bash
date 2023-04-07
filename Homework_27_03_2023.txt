@@ -1,0 +1,4 @@
+Fri Apr  7 19:32:30 UTC 2023
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p1   20G  9.1G   11G  46% /
+AuthenticAMDAuthenticAMD
